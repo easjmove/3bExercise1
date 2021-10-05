@@ -24,6 +24,7 @@ namespace Exercise1.managers
 
         public Item Delete(int id)
         {
+            int 1 = 1;
             throw new NotImplementedException();
         }
 
